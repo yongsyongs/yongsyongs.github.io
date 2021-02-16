@@ -10,7 +10,7 @@
 
 🔗 [로켓펀치](https://www.rocketpunch.com/@ysn3830)
 
-🔗 [블로그](https://velog.io/@ysn003):
+🔗 [블로그](https://velog.io/@ysn003)
 
 ---
 
