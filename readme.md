@@ -10,9 +10,7 @@
 
 🔗 [로켓펀치](https://www.rocketpunch.com/@ysn3830)
 
-🔗 [블로그](https://www.notion.so/YONGS-Blog-e673f8b480c84189b795d5dcbcd4bf62): [https://www.notion.so/yongsyongs/YONGS-Blog-e673f8b480c84189b795d5dcbcd4bf62](https://www.notion.so/yongsyongs/YONGS-Blog-e673f8b480c84189b795d5dcbcd4bf62)
-
-*노션 버그로 블로그 링크가 pdf파일에서 작동하지 않아 링크를 별첨합니다.*
+🔗 [블로그](https://velog.io/@ysn003):
 
 ---
 
@@ -106,7 +104,7 @@ Node.js 및 Python flask로 백엔드 서버 구성 가능
 
 # 📜 Articles
 
-- [**블로그](https://www.notion.so/YONGS-Blog-e673f8b480c84189b795d5dcbcd4bf62)를 쓰고 있습니다!**
+- [**블로그]https://velog.io/@ysn003)를 쓰고 있습니다!**
 
 ---
 
