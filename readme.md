@@ -66,13 +66,11 @@
 
 인디 게임 회사에 보조 개발자로 참여해보기도 했으며, 게임잼에도 참여했습니다. 고등학교를 졸업하며 플레이스토어에 [Yorijori라는 간단한 아케이드게임을 플레이스토어에 런칭](https://play.google.com/store/apps/details?id=com.septy.yorijori)했습니다.
 
-- Experience
-
 ### dart: Flutter
 
 토이프로젝트로 MVP(Minimum Viable Product) 수준까지 개발해봤습니다. 이후 여러 외주를 진행하면서 서비스를 다양한 서비스를 납품했습니다. 웹, 안드로이드, iOS의 플랫폼에서 Flutter 기반 **Front-End 개발** 가능합니다.
 
-- Experience
+- Articles
 
     [Flutter Web 마우스 클릭으로 스크롤이 되는 괴이한 UX](https://velog.io/@ysn003/Flutter-Web-%EB%A7%88%EC%9A%B0%EC%8A%A4-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4%EC%9D%B4-%EB%90%98%EB%8A%94-%EA%B4%B4%EC%9D%B4%ED%95%9C-UX) 
 
