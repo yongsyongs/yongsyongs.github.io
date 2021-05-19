@@ -64,7 +64,7 @@
 
 **게임 개발**을 하고자 유니티 엔진으로 처음 C# 프로그래밍을 접했으며, Unity 4버전(2015)때부터 많은 토이프로젝트를 진행했습니다. Product-Level의 게임 개발 경험은 적으나 주로 실험 및 시각화 등의 Tool을 개발했습니다. 
 
-인디 게임 회사에 보조 개발자로 참여해보기도 했으며, 게임잼에도 참여했습니다. 고등학교를 졸업하며 플레이스토어에 [Yorijori라는 아케이드게임을 플레이스토어에 런칭](https://play.google.com/store/apps/details?id=com.septy.yorijori)했습니다.
+인디 게임 회사에 보조 개발자로 참여해보기도 했으며, 게임잼에도 참여했습니다. 고등학교를 졸업하며 플레이스토어에 [Yorijori라는 간단한 아케이드게임을 플레이스토어에 런칭](https://play.google.com/store/apps/details?id=com.septy.yorijori)했습니다.
 
 - Experience
 
@@ -74,9 +74,9 @@
 
 - Experience
 
-    [Flutter Web 마우스 클릭으로 스크롤이 되는 괴이한 UX](https://www.notion.so/Flutter-Web-UX-26cb488e96c042899c1d93ab0c7dca37) 
+    [Flutter Web 마우스 클릭으로 스크롤이 되는 괴이한 UX](https://velog.io/@ysn003/Flutter-Web-%EB%A7%88%EC%9A%B0%EC%8A%A4-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4%EC%9D%B4-%EB%90%98%EB%8A%94-%EA%B4%B4%EC%9D%B4%ED%95%9C-UX) 
 
-    [Syntax Highlighting이 되는 Code Editor 구현하기(with TextField)](https://www.notion.so/Syntax-Highlighting-Code-Editor-with-TextField-0e15c52e0b6a4498bc8b6b03271acbf2) 
+    [Syntax Highlighting이 되는 Code Editor 구현하기(with TextField)](https://velog.io/@ysn003/Syntax-Highlighting%EC%9D%B4-%EB%90%98%EB%8A%94-Code-Editor-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0with-TextField) 
 
 ### Python: Data Analysis
 
@@ -104,7 +104,7 @@ Node.js 및 Python flask로 백엔드 서버 구성 가능
 
 # 📜 Articles
 
-- [**블로그](https://velog.io/@ysn003)를 쓰고 있습니다!**
+- __[블로그](https://velog.io/@ysn003)를 쓰고 있습니다!__
 
 ---
 
